@@ -1,9 +1,9 @@
 # Natural-Language-Processing
 
 This repository contains python codes of NLP proccesses listed below:
-1) Corpus Tokenization
-2) Corpus Vocabulary Genration
-3) Type-Token Ratio of a Corpus
-1) Language Models for Predictions
-5) Part of Speech Tagging
-6) Named Entity Recognition
+1)Language modeling
+2)Named Entity Recognition
+3) POS Tagging
+4)Type Token Ratio
+5)Tokenize_corpus
+6)Vocabulary
