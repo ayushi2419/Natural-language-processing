@@ -1,6 +1,7 @@
 # Natural-Language-Processing
 
 This repository contains python codes of NLP proccesses listed below:
+
 1)Language modeling
 
 2)Named Entity Recognition
